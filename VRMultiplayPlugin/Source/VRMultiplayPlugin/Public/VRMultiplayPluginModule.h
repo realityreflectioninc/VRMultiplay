@@ -3,7 +3,7 @@
 #include "ModuleManager.h"
 
 
-class EzAnimPluginModuleImpl : public IModuleInterface
+class VRMultiplayPluginModuleImpl : public IModuleInterface
 {
 public:
 	void StartupModule();

@@ -1,7 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
-
 #include "MotionControllerComponent.h"
 #include "SyncMotionControllerComponent.generated.h"
 
@@ -9,7 +8,7 @@
  * 
  */
 UCLASS(ClassGroup = MotionController, meta = (BlueprintSpawnableComponent))
-class VRMOTIONCONTROLLER_API USyncMotionControllerComponent : public UMotionControllerComponent
+class VRMULTIPLAYPLUGIN_API USyncMotionControllerComponent : public UMotionControllerComponent
 {
 	GENERATED_BODY()
 	

@@ -1,9 +1,9 @@
 using UnrealBuildTool;
 using System.IO;
 
-public class EzAnimPlugin : ModuleRules
+public class VRMultiplayPlugin : ModuleRules
 {
-    public EzAnimPlugin(TargetInfo Target)
+    public VRMultiplayPlugin(TargetInfo Target)
     {
         PrivateIncludePaths.AddRange(new string[] { "VRMultiplayPlugin/Private", });
         PublicIncludePaths.AddRange(new string[] { "VRMultiplayPlugin/Public" });

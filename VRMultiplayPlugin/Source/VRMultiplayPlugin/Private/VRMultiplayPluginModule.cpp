@@ -1,12 +1,12 @@
-#include "EzAnimPlugin.h"
-#include "EzAnimPluginModule.h"
+#include "VRMultiplayPlugin.h"
+#include "VRMultiplayPluginModule.h"
 
-void EzAnimPluginModuleImpl::StartupModule()
+void VRMultiplayPluginModuleImpl::StartupModule()
 {
 }
 
-void EzAnimPluginModuleImpl::ShutdownModule()
+void VRMultiplayPluginModuleImpl::ShutdownModule()
 {
 }
 
-IMPLEMENT_MODULE(EzAnimPluginModuleImpl, EzAnimPlugin);
+IMPLEMENT_MODULE(VRMultiplayPluginModuleImpl, VRMultiplayPlugin);

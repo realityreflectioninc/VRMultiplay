@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "VRMotionController.h"
+#include "VRMultiplayPlugin.h"
 #include "SyncMotionControllerComponent.h"
 #include "UnrealNetwork.h"
 
