@@ -12,7 +12,7 @@ this component automatically synchronize location / rotation of all client's mot
 
 ### How To Use
 
- just use **SyncMotionController** instead of **MotionController**. this component is derived from Motion Controller Component.
+use **SyncMotionController** instead of **MotionController**. this component is derived from Motion Controller Component.
 
 ## Install
 
